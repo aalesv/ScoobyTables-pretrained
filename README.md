@@ -4,7 +4,7 @@ This repo contains pretrained models for [ScoobyTables](https://github.com/aales
 
 ## Files description
 
-### 2024_0301-knn-sh7253.dmp
+### 2024_0301-knn-sh72531.dmp
 
 This is k-nearest neighbors algorithm trained on following SH72531 CPU-based Subaru ROMs:
 
