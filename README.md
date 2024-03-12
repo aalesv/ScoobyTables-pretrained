@@ -25,4 +25,4 @@ Numbers of neighbors = 2
 
 #### Software versions:
 
-Python version 3.11, pandas version 2.2.0, ScoobyTables version 2024.0301
+Python version 3.11, scikit-learn version 1.4.1.post1, ScoobyTables version 2024.0311
