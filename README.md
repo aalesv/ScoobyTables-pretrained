@@ -4,12 +4,14 @@ This repo contains pretrained models for [ScoobyTables](https://github.com/aales
 
 ## Files description
 
-### 2024_0312-knn-sh72531.dmp
+### 2024_0313-knn-sh72531.dmp
 
-Dataset is the same as 2024_0301-knn-sh72531.dmp. Table names changed to improve readability:
+Dataset is the same as 2024_0301-knn-sh72531.dmp. Table names changed to improve prediction:
 
-* Tipin to Tip_In
-* Transignretard to Trans_Ign_Retard
+* Timing_Idle_Above_A_RPM to Timing_Idle_Above_RPM
+* Timing_Idle_Above_B_RPM to Timing_Idle_Above_RPM
+* Timing_Idle_Above_A_ECT to Timing_Idle_Above_ECT
+* Timing_Idle_Above_B_ECT to Timing_Idle_Above_ECT
 
 This is k-nearest neighbors algorithm trained on following SH72531 CPU-based Subaru ROMs:
 
