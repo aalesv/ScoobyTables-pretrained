@@ -15,10 +15,10 @@ Dataset is the same as 2024_0301-knn-sh72531.dmp. Table names changed to improve
 
 This is k-nearest neighbors algorithm trained on following SH72531 CPU-based Subaru ROMs:
 
+* EA1M220F
 * EA1W310e
 * EB4J321R
 * EB4K010V
-* EB4P000T
 * EB4P000T
 
 #### Algorithm parameters:
